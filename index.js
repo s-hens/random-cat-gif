@@ -1,4 +1,4 @@
-const img = document.querySelector('img');
+const img = document.querySelector("img");
 
 function showCat() {
     document.querySelector(".loading").innerText = "Loading...";
