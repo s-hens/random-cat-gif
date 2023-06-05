@@ -6,13 +6,15 @@
 
 Generates random cat gifs using the free Giphy API. Created as part of [The Odin Project](https://www.theodinproject.com/) Full Stack JavaScript curriculum.
 
-The API key is exposed in the code because:
+## Why is the API key exposed?
+
 - It's a free API
-- It's a small, just-for-fun project
 - The project has no backend
+- This is a tiny project for fun/educational purposes only
 
 ## I learned about...
 
 - Asynchronous code
-- Working with APIs
+- The async/await keywords
+- Working with third-party APIs
 - API key protection
